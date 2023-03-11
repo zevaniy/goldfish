@@ -1,5 +1,5 @@
 # GOLDFISH
-**Multi-page website layout** <sub>*Project for portfolio and skill improvement*</sub>
+### **Multi-page website layout** <sup>*Project for portfolio and skill improvement*</sup>
 
 - [x] Fully Responsive
 
