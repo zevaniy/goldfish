@@ -25,9 +25,9 @@ multi-page website layout
  ***
  ### Preview some pages
 
-!(/preview-images/home-page.jpg)
-!(/preview-images/blog-page.jpg)
-!(/preview-images/catalog-page.jpg)
-!(/preview-images/product-page.jpg)
-!(/preview-images/about-page.jpg)
+![](/preview-images/home-page.jpg)
+![](/preview-images/blog-page.jpg)
+![](/preview-images/catalog-page.jpg)
+![](/preview-images/product-page.jpg)
+![](/preview-images/about-page.jpg)
 
