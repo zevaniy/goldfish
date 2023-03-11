@@ -1,9 +1,11 @@
 # GOLDFISH
-multi-page website layout
+**Multi-page website layout**
 
 - [x] Fully Responsive
 
 - [x] Adaptive to 320px
+
+- [x] Minimized images, css, javascript
 
 ***
 ### Pages
@@ -19,15 +21,23 @@ multi-page website layout
 - [Evants](https://zevaniy.github.io/goldfish/events-page.html "Evants")
 - [Evant page](https://zevaniy.github.io/goldfish/events-one-page.html "Evant page")
 
-> Opening a modal window when clicking on the profile icon in header
+> Opening a modal window when clicking on the profile icon in header.
 > Switching the login method by password or SMS
  
  ***
  ### Preview some pages
 
 ![](/preview-images/home-page.jpg)
+
+
 ![](/preview-images/blog-page.jpg)
+
+
 ![](/preview-images/catalog-page.jpg)
+
+
 ![](/preview-images/product-page.jpg)
+
+
 ![](/preview-images/about-page.jpg)
 
