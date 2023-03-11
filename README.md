@@ -1,7 +1,9 @@
 # GOLDFISH
 multi-page website layout
-Fully Responsive
-Adaptive to 320px
+
+- [x] Fully Responsive
+
+- [x] Adaptive to 320px
 
 ***
 ### Pages
@@ -23,9 +25,9 @@ Adaptive to 320px
  ***
  ### Preview some pages
 
-/preview-images/home-page.jpg
-/preview-images/blog-page.jpg
-/preview-images/catalog-page.jpg
-/preview-images/product-page.jpg
-/preview-images/about-page.jpg
+!(/preview-images/home-page.jpg)
+!(/preview-images/blog-page.jpg)
+!(/preview-images/catalog-page.jpg)
+!(/preview-images/product-page.jpg)
+!(/preview-images/about-page.jpg)
 
