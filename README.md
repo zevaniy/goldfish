@@ -1,5 +1,7 @@
-# GOLDFISH
-### **Multi-page website layout**   <sup>*[Project for portfolio and skill improvement]*</sup>
+# [GOLDFISH](https://zevaniy.github.io/goldfish/ "GOLDFISH")
+### **Multi-page layout of an online store website**   
+
+*[Project for portfolio and skill improvement]*
 
 - [x] Fully Responsive
 
